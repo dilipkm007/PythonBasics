@@ -18,3 +18,20 @@ So, data science is like detective work with a twist! We use information to solv
 This abundance of information empowers us to make more informed choices, react swiftly to change, and gain a deeper understanding of the world around us. However, navigating this data deluge can be overwhelming. Deciding which data to collect, the methods for analyzing it, and most importantly, extracting answers that address our most pressing concerns about business, life, and the world itself, all pose significant challenges. </p>
 
 <p>Data science is the key to unlocking the potential of this information flood. In essence, it's the art of transforming raw data into actionable insights. Data scientists use various techniques to predict future behavior, identify patterns that inform decision-making, and extract meaning from these vast, untapped resources.</p>
+
+<html> 
+    <table>
+    <th>
+        <td>Name</td>
+        <td>Age</td>
+    </th>
+    <tr>
+        <td>"Dilip"</td>
+        <td>21</td>
+    </tr>
+     <tr>
+        <td>"Suresh"</td>
+        <td>31</td>
+    </tr>
+    </table>
+</html>
